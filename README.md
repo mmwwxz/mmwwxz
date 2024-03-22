@@ -5,16 +5,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" style="text-align: center">
-  <a href="https://www.linkedin.com/in/muhammad-askerov-8455142ab/">
+  <a href="https://www.linkedin.com/in/muhammad-askerov-8455142ab/" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/mmwwxz_/">
+  <a href="https://www.instagram.com/mmwwxz_/" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
-  <a href="https://t.me/mmwwxz">
+  <a href="https://t.me/mmwwxz" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
   </a> 
-
 </div>
 
 ## 💻 Tech Stack:
