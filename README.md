@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
-  
-
 ### <div align="center">HI! I'm Muhammad, Python Backend Developer, it's my profile.</div>  
   
 
@@ -75,4 +70,3 @@
 <br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
