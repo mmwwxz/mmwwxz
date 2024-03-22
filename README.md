@@ -57,7 +57,7 @@
 <a href="https://instagram.com/mmwwxz_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/muhammad613" target="_blank">
+<a href="https://github.com/mmwwxz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/muhammad-askerov-8455142ab" target="_blank">
@@ -70,7 +70,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammad613&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mmwwxz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -85,7 +85,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=muhammad613&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=mmwwxz&&style=flat-square" align="center" />
 </div>  
   
 
